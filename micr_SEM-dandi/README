@@ -1,0 +1,5 @@
+This dataset is derived from micr_SEM to include files specific to the temporary DANDI BIDS fork.
+
+1 mouse spinal cord sample imaged over 2 sessions.
+Example dataset with empty images containing scanning electron microscopy (SEM) data to illustrate BIDS convention.
+
